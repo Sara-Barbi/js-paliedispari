@@ -3,15 +3,20 @@
 
 let parola = prompt("inserisci una parola palindroma!");
 
-let parolaInversa ='';
 
 
-function miaFunzione(){
-   for(i=parola.length; i>=0, i--;){
-       let carattere = parola[i];
-       parolaInversa += carattere;
-      
-   }
+
+
+
+
+
+
+
+
+
+
+
+  
 
 
   
