@@ -21,8 +21,7 @@ function myFunction(){
        return("pari! HAI PERSO")
    }
 };
-
-console.log(scelta,sceltaNum,computerNum,tot,myFunction());
+document.writeln(scelta,' ',sceltaNum,' ',computerNum,' ',tot,' ',myFunction());
 
 /*non ho inserito il random number per il numero del computer perchè altrimenti veniva mostrato un numero diverso all'utente 
 da quello realmente utilizzato per la somma dei due numeri.*/
